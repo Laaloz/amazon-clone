@@ -6,7 +6,7 @@ Link to the page: https://fir-34a4c.firebaseapp.com/
 
 **Version 1.0.0**
 
-This app is FAKE amazon  **test-work**. You can create an account and it will save it to firebase database. After created an account you can log-in and out. There is fully working shop place where you can add or remove items and app uses [Stripe API](https://stripe.com/en-fi) for card data to buy items "do not buy!"
+This app is FAKE amazon  **test-work**. You can create an account and it will save it to firebase database. After created an account you can log-in and out. There is fully working marketplace where you can add or remove items and app uses [Stripe API](https://stripe.com/en-fi) for card data to buy items "do not buy!"
 
 ## Features
 
