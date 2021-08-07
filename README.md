@@ -19,7 +19,7 @@ I used SCSS [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) a
 
 ### Details
 
-Add items to basket, when clickin basket you can remove or continue to checkout. Checkout page will show you items subtotal and price. After choosing items you can continue and proceed items and add card information
+Add items to basket, when adding into basket you can remove item or continue to checkout. Checkout page will show you items subtotal and price. After choosing items you can continue and proceed items and add card information
 
 ## Installation
 
