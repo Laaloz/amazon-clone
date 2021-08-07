@@ -1,0 +1,28 @@
+.home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1500px;
+  overflow: scroll;
+}
+
+.home-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 1;
+  margin: 0 1em 0.6em 1em;
+}
+
+.home-image {
+  width: 100%;
+  margin: 0px;
+  z-index: -1;
+  margin-bottom: -180px;
+}
+/*# sourceMappingURL=home.css.map */
