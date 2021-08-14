@@ -15,7 +15,7 @@ This app is FAKE amazon  **test-work**. You can create an account and it will sa
 
 ### Styles
 
-I used SCSS [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and SCSS [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) to make view more responsive
+I used SCSS [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) to make view more responsive
 
 ### Details
 
